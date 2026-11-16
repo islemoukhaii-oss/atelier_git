@@ -24,6 +24,7 @@ prenom=input("donner prenom")
 print("code:",code)
 print("nom:",nom)
 print("prenom:",prenom)
+print("cc les babies")
 
 
 
